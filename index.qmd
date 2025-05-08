@@ -1,0 +1,37 @@
+---
+title: "Jiajing Niu"
+image: 1746679271841.jpg
+resources: resume.pdf
+about:
+  template: solana
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:noreply@email.zz
+    - text: TikTok
+      icon: tiktok
+      href: https://www.tiktok.com/
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/
+---
+# Welcome!
+
+Hi, I'm **Jiajing Niu**, a communication and data science student passionate about storytelling, AI, and digital media. This website is part of my final project using Quarto and GitHub Pages.
+
+Feel free to explore the site and learn more about what I do!
+
+## Skills
+
+- Data analysis with R and Python  
+- Visual storytelling and content design  
+- Public speaking and cross-cultural communication  
+
+## Education
+
+- University of Colorado Denver – B.A. in Communication, Minor in Data Science  
+- GPA: 8.0  
+- Relevant coursework: Statistics, Data Visualization, Strategic Communication  
+

@@ -1,0 +1,18 @@
+---
+title: "Hobbies"
+format: html
+---
+
+## 🎵 Playing the Piano
+
+I started learning piano as a child and find it relaxing and expressive. I often play classical and movie soundtracks.
+
+![My Piano](IMG_CAB31D84DE21-1.jpeg){width=300px}
+
+## 📸 Photography
+
+Capturing natural light and candid moments has always fascinated me. I'm especially drawn to cityscapes and street photography.
+
+## 🚴‍♀️ Cycling
+
+I enjoy long bike rides in the countryside. It keeps me fit and helps me clear my mind after a long day of studying.
